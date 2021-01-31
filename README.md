@@ -1,6 +1,8 @@
 
 ## DataBoss Assignment
- **Python Test Automation**
+**1. Test Cases / Scenarios**
+	 Test cases are written on .docx files. There can be downloaded directly from git repository.  I wrote 6 short and basic scenarios to make easy understanding. Those scenarios cover all wanted features on assignment.
+**2. Python Test Automation**
 **Versions**
  - Python 3.9
  - Selenium 9.141.0
@@ -21,8 +23,8 @@ Go to `Run-> Edit Configurations ->Python Test`  and then click on "+" button at
  - I parametrized the login methods
  - I wrote some assertions in test classes
 
-**JMeter Load Test Result**
-Download and extract "JMeter Test Result" folder and go to bin folder. 
-- There can be opened in JMeter from "GetEmployeeData.jmx" file. 
-- Test Result and reports are inside of `.bin->HTMLReports->index.html` with graphical and detailed visual materials
-- There is also produced a csv file on  `.bin->TestReport1.csv`
+**3. JMeter Load Test Result**
+Open JMeter folder from git repository first;
+- The project can be opened from "GetEmployeeData.jmx" file.  Test is done for GET, PUSH, PUT and DELETE http requests.
+- Test Result and reports are inside of `HTMLReports->index.html` with graphical and detailed visual materials
+- There is also produced a csv file on  `TestReport1.csv`
