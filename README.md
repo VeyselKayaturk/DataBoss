@@ -1,7 +1,7 @@
-
 ## DataBoss Assignment
 **1. Test Cases / Scenarios**
-	 Test cases are written on .docx files. There can be downloaded directly from git repository.  I wrote 6 short and basic scenarios to make easy understanding. Those scenarios cover all wanted features on assignment.
+ - Test cases are written on .docx files. There can be downloaded directly from git repository.  I wrote 6 short and basic scenarios to make easy understanding. Those scenarios cover all wanted features on assignment.
+ 
 **2. Python Test Automation**
 **Versions**
  - Python 3.9
